@@ -6,9 +6,6 @@ This application is an basic example of a CRUD (Create, Read, Update, Delete) ap
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#project-features)
-- [Environment Variables](#environment-variables)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -76,6 +73,8 @@ This application is an basic example of a CRUD (Create, Read, Update, Delete) ap
 
 After following the installation steps, you can access the application at `http://localhost:5173/` for the frontend and `http://127.0.0.1:5000` for the backend API.
 
+### License
+MIT License
 ## Features
 User List: Displays all existing users.
 Add New User: Allows adding a new user to the database.
